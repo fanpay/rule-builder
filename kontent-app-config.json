@@ -1,0 +1,11 @@
+{
+  "name": "Visual Rule Builder",
+  "description": "A visual interface for building personalization rules with support for multiple conditions and logical operators (AND/OR). Creates machine-readable JSON for content variant evaluation.",
+  "version": "1.0.0",
+  "author": "Koerber Team",
+  "allowedElements": ["text"],
+  "configurationSchema": {
+    "type": "object",
+    "properties": {}
+  }
+}
