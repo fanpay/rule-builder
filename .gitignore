@@ -1,0 +1,10 @@
+node_modules/
+dist/
+.env
+.vite
+*.log
+.DS_Store
+.idea/
+.vscode/
+*.local
+*.pem
